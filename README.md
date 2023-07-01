@@ -1,2 +1,2 @@
-# Projecets-Contributions
-This repository contains all the android projects and opensource contributions made by abhinesh
+# Projects-Achievements
+This repository contains all the Android projects and opensource contributions made by Abhinesh
