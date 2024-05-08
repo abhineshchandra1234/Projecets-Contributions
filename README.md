@@ -15,3 +15,7 @@ This repository contains all the Android projects and opensource contributions m
     - we will create a unit converter app using a basic jetpack compose
     - It will convert values from input to output units and vice-versa
     - Whenever we change input or output units or values, the result is automatically updated
+- [My Shopping List App](https://github.com/abhineshchandra1234/MyShoppingListApp)
+    - Created a basic shopping list app using Jetpack Compose
+    - Users can add shopping items and their quantity
+    - When the user closes the app all data is lost as it is not stored locally yet
