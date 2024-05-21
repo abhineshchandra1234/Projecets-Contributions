@@ -19,3 +19,5 @@ This repository contains all the Android projects and opensource contributions m
     - Created a basic shopping list app using Jetpack Compose
     - Users can add shopping items and their quantity
     - When the user closes the app all data is lost as it is not stored locally yet
+- [Counter App](https://github.com/abhineshchandra1234/CounterMVVM)
+    - Created a counter app using basic jetpack compose and MVVM architecture
