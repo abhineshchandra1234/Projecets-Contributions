@@ -21,3 +21,4 @@ This repository contains all the Android projects and opensource contributions m
     - When the user closes the app all data is lost as it is not stored locally yet
 - [Counter App](https://github.com/abhineshchandra1234/CounterMVVM)
     - Created a counter app using basic jetpack compose and MVVM architecture
+    - we can increment or decrement the counter and the counter will survive or remain the same on configuration change.
