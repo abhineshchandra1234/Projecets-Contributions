@@ -22,3 +22,7 @@ This repository contains all the Android projects and opensource contributions m
 - [Counter App](https://github.com/abhineshchandra1234/CounterMVVM)
     - Created a counter app using basic jetpack compose and MVVM architecture
     - we can increment or decrement the counter and the counter will survive or remain the same on configuration change.
+- [Receipe App](https://github.com/abhineshchandra1234/MyReceipeApp)
+    - Created a receipe app using jetpack compose and MVVM
+    - there will show a list of different dishes
+    - we can see a detailed receipe by clicking on them
