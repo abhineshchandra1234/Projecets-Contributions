@@ -23,6 +23,9 @@ This repository contains all the Android projects and opensource contributions m
     - Created a counter app using basic jetpack compose and MVVM architecture
     - we can increment or decrement the counter and the counter will survive or remain the same on configuration change.
 - [Receipe App](https://github.com/abhineshchandra1234/MyReceipeApp)
-    - Created a receipe app using jetpack compose and MVVM
-    - there will show a list of different dishes
-    - we can see a detailed receipe by clicking on them
+    - Created a recipe app using Jetpack compose and MVVM
+    - there will be a list of different dishes
+    - we can see a detailed recipe by clicking on them
+- [Stopwatch App](https://github.com/abhineshchandra1234/Stopwatch)
+    - Users can start, stop, resume and cancel the stopwatch from the app or through the persistent notification
+    - The app will keep on running in the foreground through persistent notification, even if you close the app
